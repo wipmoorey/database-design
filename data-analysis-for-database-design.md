@@ -1,5 +1,11 @@
 # Data Analysis for Database Design
 
+|        |               |
+| :----- | :------------ |
+| Author | D R Howe      |
+| ISBN   | 0-7131-3688-X |
+
+
 - A database is a collection of non-redundant data shared between different applications.
 - The simplest way to reduce inconsistent data is to eliminate unnecessary duplication.
 - This implies that data should be shared as a common pool shared between many applications.
